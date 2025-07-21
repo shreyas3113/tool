@@ -1,0 +1,22 @@
+{
+  "id": "chatcmpl-292e278f-514e-4186-9010-91ce6a14168b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Hello! How can I assist you today?",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1723733419,
+  "model": "llama3.1-8b",
+  "system_fingerprint": "fp_70185065a4",
+  "object": "chat.completion",
+  "usage": {
+    "prompt_tokens": 10,
+    "completion_tokens": 8,
+    "total_tokens": 18
+  }
+}
